@@ -1,8 +1,9 @@
 {
-  "name": "browser-toolkit-interface",
+  "name": "@swizzyweb/browser-toolkit-interface",
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
