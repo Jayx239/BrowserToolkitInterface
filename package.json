@@ -6,6 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
+    "clean": "rm -rf ./node_modules ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "WannaWatchMeCode",
